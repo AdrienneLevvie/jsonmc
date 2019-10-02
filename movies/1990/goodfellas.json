@@ -1,0 +1,20 @@
+{
+  "name": "Goodfellas",
+  "year": 1990,
+  "runtime": 148,
+  "categories": [
+    "crime",
+    "drama"
+  ],
+  "release-date": "1990-09-09",
+  "director": "Martin Scorsese",
+  "writer": [
+    "Martin Scorsese",
+    "Nicholas Pileggi"
+  ],
+  "actors": [
+    "Robert De Niro",
+    "Ray Liotta",
+    "Joe Pesci"
+  ],
+  "storyline": "the rise and fall of mob associate Henry Hill and his friends and family from 1955 to 1980."
